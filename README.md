@@ -5,7 +5,7 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 To run the application you need to create a .env file with API_KEY to OMDb API
 
 1. Open .env.example
-2. Put your API KEY to file
+2. Put your OMDb API KEY to file
 3. Rename .env.example to .env
 4. `bash pnpm run build `
 5. `bash pnpm run start `
